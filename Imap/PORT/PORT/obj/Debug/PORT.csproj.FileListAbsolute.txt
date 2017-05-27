@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2017\Projects\PORT\PORT\bin\Debug\PORT.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\PORT\PORT\bin\Debug\PORT.exe
+c:\users\admin\documents\visual studio 2017\Projects\PORT\PORT\bin\Debug\PORT.pdb
+c:\users\admin\documents\visual studio 2017\Projects\PORT\PORT\obj\Debug\PORT.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\PORT\PORT\obj\Debug\PORT.exe
+c:\users\admin\documents\visual studio 2017\Projects\PORT\PORT\obj\Debug\PORT.pdb
