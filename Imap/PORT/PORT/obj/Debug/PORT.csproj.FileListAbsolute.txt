@@ -4,3 +4,9 @@ c:\users\admin\documents\visual studio 2017\Projects\PORT\PORT\bin\Debug\PORT.pd
 c:\users\admin\documents\visual studio 2017\Projects\PORT\PORT\obj\Debug\PORT.csprojResolveAssemblyReference.cache
 c:\users\admin\documents\visual studio 2017\Projects\PORT\PORT\obj\Debug\PORT.exe
 c:\users\admin\documents\visual studio 2017\Projects\PORT\PORT\obj\Debug\PORT.pdb
+C:\Users\Admin\Desktop\Imap\PORT\PORT\bin\Debug\PORT.exe.config
+C:\Users\Admin\Desktop\Imap\PORT\PORT\bin\Debug\PORT.exe
+C:\Users\Admin\Desktop\Imap\PORT\PORT\bin\Debug\PORT.pdb
+C:\Users\Admin\Desktop\Imap\PORT\PORT\obj\Debug\PORT.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Imap\PORT\PORT\obj\Debug\PORT.exe
+C:\Users\Admin\Desktop\Imap\PORT\PORT\obj\Debug\PORT.pdb
