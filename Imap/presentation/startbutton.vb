@@ -10,7 +10,7 @@ Private Sub Start_Button_Click()
                 last = now
                 
                 Dim sFullPathToExecutable As String
-                sFullPathToExecutable = "C:\Users\Admin\Desktop\PORT.exe " & now
+                sFullPathToExecutable = ActivePresentation.Path & "\PORT.exe " & now
                 Shell sFullPathToExecutable, vbHide
                 
             End If
