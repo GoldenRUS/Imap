@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Imap\PORT\PORT\obj\x86\Release\PORT.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Imap\PORT\PORT\bin\x86\Release\PORT.exe.config
+C:\Users\Admin\Desktop\Imap\PORT\PORT\bin\x86\Release\PORT.exe
+C:\Users\Admin\Desktop\Imap\PORT\PORT\bin\x86\Release\PORT.pdb
+C:\Users\Admin\Desktop\Imap\PORT\PORT\obj\x86\Release\PORT.exe
+C:\Users\Admin\Desktop\Imap\PORT\PORT\obj\x86\Release\PORT.pdb

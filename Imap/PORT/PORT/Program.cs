@@ -1,9 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.IO.Ports;
 
 namespace PORT
@@ -12,7 +10,7 @@ namespace PORT
     {
         static void Main(string[] args)
         {
-            if (args.Count() > 0)
+            if (args.Length > 0)
             {
                 //string port = File.ReadLines("port.txt").First();
                 string port = "";

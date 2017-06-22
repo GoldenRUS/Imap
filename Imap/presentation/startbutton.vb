@@ -1,4 +1,4 @@
-Dim lp As Boolean, last As Integer, now As Integer
+Dim lp As Boolean, last As Integer, now As Integer, sFullPathToExecutable As String
 Private Sub Start_Button_Click()
  On Error Resume Next
  last = 0
@@ -9,7 +9,6 @@ Private Sub Start_Button_Click()
             If now <> last Then
                 last = now
                 
-                Dim sFullPathToExecutable As String
                 sFullPathToExecutable = ActivePresentation.Path & "\PORT.exe " & now
                 Shell sFullPathToExecutable, vbHide
                 
