@@ -1,0 +1,6 @@
+﻿  PORT++.cpp
+c:\users\admin\documents\visual studio 2017\projects\port++\port++\port++.cpp(20): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdlib.h(1334): note:  см. объявление "itoa"
+  LINK : не найден или не выполнена сборка c:\users\admin\documents\visual studio 2017\Projects\PORT++\Debug\PORT++.exe при последней инкрементной компоновке; выполняется полная компоновка
+  PORT++.vcxproj -> c:\users\admin\documents\visual studio 2017\Projects\PORT++\Debug\PORT++.exe
+  PORT++.vcxproj -> c:\users\admin\documents\visual studio 2017\Projects\PORT++\Debug\PORT++.pdb (Partial PDB)
