@@ -52,13 +52,12 @@ void setup() {
 }
 
 void loop() {
+
     if (Serial.available() > 0) {  //если есть доступные данные
         // считываем байт
         incomingByte = Serial.read()-48;
-        if(incomingByte == 50)
-        {
-          Serial.print("h");
-        }
+        Serial.print(incomingByte);
+        off();
         switch(incomingByte)
         {
           case 1:
@@ -100,8 +99,8 @@ void loop() {
           case 13:
             p13();
             break;
-          default:
-            off();
+          //default:
+            //off();
         }
     }
 }
@@ -237,7 +236,7 @@ void blinking()
   digitalWrite(6, blinkstat);
   digitalWrite(7, blinkstat);
   digitalWrite(8, blinkstat);
-  digitalWrite(11, blinkstat);
+  digitalWrite(11, blinkstat);//11
   
 }
 
